@@ -89,10 +89,18 @@ def build_index(kb_dir: str, index_dir: str) -> None:
     os.makedirs(index_dir, exist_ok=True)
     
     # Create or open index
-    if exists_in(index_dir):
-        ix = open_dir(index_dir)
-    else:
-        ix = create_index(schema, index_dir)
+    try:
+        storage = FileStorage(index_dir)
+        if storage.index_exists():
+            ix = open_dir(index_dir)
+        else:
+            ix = create_index(schema, index_dir)
+    except:
+        # Fallback: try to open, create if fails
+        try:
+            ix = open_dir(index_dir)
+        except:
+            ix = create_index(schema, index_dir)
     
     # Index documents
     writer = ix.writer()
