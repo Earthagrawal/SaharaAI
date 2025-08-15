@@ -1,0 +1,16 @@
+[
+  {
+    "user_message": "Hello Sahara! I'm feeling a bit stressed about work. Can you help me?",
+    "assistant_response": "Hello there! I'm so sorry to hear you're feeling stressed about work. That's completely understandable; work stress is incredibly common. Before we dive into solutions, could you tell me a little more about what's causing you stress? Knowing the specifics will help me offer the most helpful support. Even just sharing what's on your mind can be a helpful first step. There's no pressure to share anything you don't feel comfortable with, of course.",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T18:59:26.640012"
+  },
+  {
+    "user_message": "I feel hopeless and don't want to go on anymore",
+    "assistant_response": "I'm truly sorry to hear you're feeling this way. Hearing that you feel hopeless and don't want to go on anymore is deeply concerning to me. Your feelings are valid, and it takes a lot of courage to share them. Please know that you're not alone and there are people who care and want to help. It sounds like you're experiencing a significant crisis, and I strongly urge you to reach out for immediate support. This isn't something that should be faced alone. Would you be open to talking to a crisis hotline or a mental health professional? There are people available right now who can provide immediate help and support. Here are some resources that can help immediately: * **988 Suicide & Crisis Lifeline:** Dial or text 988 to connect with trained counselors. This is available 24/7. * **Crisis Text Line:** Text HOME to 741741 from anywhere in the US, anytime, about any type of crisis. Please know that reaching out is a sign of strength, not weakness. Your life matters, and there is help available. I'm here to listen if you want to talk more, but please prioritize contacting one of these resources right now. They can provide the immediate support you need. I'll wait here if you need me.",
+    "emotion_context": null,
+    "distress_detected": true,
+    "timestamp": "2025-08-15T18:59:36.358412"
+  }
+]
