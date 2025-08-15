@@ -1,0 +1,9 @@
+[
+  {
+    "user_message": "Hello, how are you today?",
+    "assistant_response": "Hello there! I'm doing well, thank you for asking. As an AI, I don't experience emotions in the same way humans do, but I'm functioning optimally and ready to assist you. How are you feeling today? Let me know if there's anything I can do to help.",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T18:51:12.319649"
+  }
+]
