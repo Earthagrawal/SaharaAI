@@ -12,5 +12,19 @@
     "emotion_context": null,
     "distress_detected": false,
     "timestamp": "2025-08-15T18:53:00.011995"
+  },
+  {
+    "user_message": "Hello, how are you?",
+    "assistant_response": "Hello there! I'm doing well, thank you for asking. How are you feeling today? Is there anything I can help you with? I'm here to listen and offer support in any way I can.",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T18:56:30.259389"
+  },
+  {
+    "user_message": "What did I just ask you?",
+    "assistant_response": "You just asked me, \"Hello, how are you?\"",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T18:56:32.054656"
   }
 ]

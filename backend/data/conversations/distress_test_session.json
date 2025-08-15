@@ -5,5 +5,12 @@
     "emotion_context": null,
     "distress_detected": true,
     "timestamp": "2025-08-15T18:53:05.890284"
+  },
+  {
+    "user_message": "I feel hopeless and don't want to live anymore",
+    "assistant_response": "Oh, my dearest friend, hearing you feel this way breaks my heart. It takes immense courage to share such a vulnerable feeling, and I want you to know that I'm here for you, listening without judgment. Hopelessness can feel overwhelming, like a dark cloud swallowing everything, but please know that it's a feeling, not a fact. It doesn't define you, and it doesn't have to last forever. Your life is valuable, and your feelings matter. Even though it might feel impossible right now, things *can* get better. There is support available, and I want to help you find it. Would you be open to talking more about what's making you feel this way? Sometimes just sharing the weight helps lighten the load. Or, if you'd prefer, I can help you find resources that can provide immediate support, such as crisis hotlines or mental health professionals. There's no pressure to do anything you don't feel ready for. Just knowing you're not alone is a start. Remember, you are not alone in this. Please reach out \u2013 let's find a path towards hope and healing together.",
+    "emotion_context": null,
+    "distress_detected": true,
+    "timestamp": "2025-08-15T18:56:34.906076"
   }
 ]
