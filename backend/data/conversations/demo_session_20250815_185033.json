@@ -1,0 +1,20 @@
+[
+  {
+    "user_message": "I'm feeling a bit stressed about work lately",
+    "assistant_response": "I understand that work stress can be challenging. Would you like to talk about what's been causing you the most stress?",
+    "emotion_summary": "mild stress",
+    "timestamp": "2025-08-15T18:50:33.182035"
+  },
+  {
+    "user_message": "My manager has been giving me too many tasks",
+    "assistant_response": "That sounds overwhelming. Have you considered discussing your workload with your manager?",
+    "emotion_summary": "frustrated",
+    "timestamp": "2025-08-15T18:50:33.182371"
+  },
+  {
+    "user_message": "Thanks for listening, I feel better now",
+    "assistant_response": "I'm glad I could help. Remember that it's important to take care of your mental health.",
+    "emotion_summary": "relieved",
+    "timestamp": "2025-08-15T18:50:33.182760"
+  }
+]
