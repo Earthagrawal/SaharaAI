@@ -1,0 +1,44 @@
+[
+  {
+    "user_message": "hello",
+    "assistant_response": "Hello there! How can I help you today? Is there anything you'd like to talk about or any way I can support you?",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T19:04:26.228952"
+  },
+  {
+    "user_message": "i have jee exam soon, I have stress about how it is going to go",
+    "assistant_response": "It's completely understandable that you're feeling stressed about the JEE exam. It's a big deal, and it's natural to feel anxious about such an important event. Tell me, what specifically is causing you the most stress? Is it the pressure to perform well, fear of failure, the volume of material to cover, or something else entirely? Knowing more will help me offer more tailored support. Remember, you've already put in a lot of hard work to get to this point. Let's focus on what you *can* control, and work together to manage the stress you're feeling. We can explore some coping mechanisms and strategies to help you feel more confident and prepared.",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T19:04:59.250434"
+  },
+  {
+    "user_message": "fear of failure",
+    "assistant_response": "The fear of failure is a very common feeling, especially when facing a high-stakes exam like the JEE. It's completely valid to feel this way. Let's try to address this fear together. Instead of focusing on the catastrophic \"what if I fail\" scenario, let's shift our perspective. Can you tell me more about what failing would mean to you? Understanding your underlying concerns will help us find ways to manage your anxiety. For instance, is it the fear of disappointing yourself, your family, or missing out on your dream college? Once we identify the source of your fear, we can work on strategies to reframe your thinking and build confidence. We can also explore techniques to manage the anxiety itself. Would you be open to discussing some of those?",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T19:05:14.021475"
+  },
+  {
+    "user_message": "ask me what you want to know",
+    "assistant_response": "Okay, let's explore this fear of failure a bit more. To help me understand and support you better, I'd like to ask a few questions. Please answer only if you feel comfortable doing so; you can skip any question you don't want to answer. 1. **What are your biggest fears about failing the JEE?** (e.g., disappointing family, not getting into your desired college, feeling like a failure as a person) 2. **What are you most proud of accomplishing in your JEE preparation so far?** (This helps us focus on your strengths and progress.) 3. **What coping mechanisms have you tried before to manage stress or anxiety?** (Did they work? If not, why not?) 4. **What support system do you have around you?** (Family, friends, teachers, tutors?) Taking things step-by-step will help us address your concerns effectively. Let's start with question 1.",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T19:05:38.767483"
+  },
+  {
+    "user_message": "dissapointing, my hard work, music",
+    "assistant_response": "Error: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T19:06:07.519413"
+  },
+  {
+    "user_message": "dissapointing, my hard work, music\n\n12:36:06 AM",
+    "assistant_response": "Error: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T19:06:27.896269"
+  }
+]
