@@ -147,7 +147,8 @@ def _generate_embeddings(index_dir: str, model) -> None:
         doc_ids = []
         
         with ix.searcher() as searcher:
-            for doc in searcher.all_docs():
+            for docnum in searcher.document_numbers():
+                doc = searcher.document(docnum=docnum)
                 content = doc['content']
                 doc_id = doc['id']
                 
