@@ -5,6 +5,7 @@ import json
 from typing import List, Dict, Any, Optional
 from whoosh import fields, analysis
 from whoosh.index import create_index, open_dir, exists_in
+from whoosh.filedb.filestore import FileStorage
 from whoosh.qparser import QueryParser
 from whoosh.query import And, Term
 from sentence_transformers import SentenceTransformer
