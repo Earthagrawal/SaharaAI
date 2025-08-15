@@ -4,8 +4,7 @@ import os
 import json
 from typing import List, Dict, Any, Optional
 from whoosh import fields, analysis
-from whoosh.index import create_index, open_dir
-from whoosh.filedb.filestore import FileStorage
+from whoosh.index import create_in, open_dir, exists_in
 from whoosh.qparser import QueryParser
 from whoosh.query import And, Term
 from sentence_transformers import SentenceTransformer
@@ -90,17 +89,16 @@ def build_index(kb_dir: str, index_dir: str) -> None:
     
     # Create or open index
     try:
-        storage = FileStorage(index_dir)
-        if storage.index_exists():
+        if exists_in(index_dir):
             ix = open_dir(index_dir)
         else:
-            ix = create_index(schema, index_dir)
+            ix = create_in(index_dir, schema)
     except:
         # Fallback: try to open, create if fails
         try:
             ix = open_dir(index_dir)
         except:
-            ix = create_index(schema, index_dir)
+            ix = create_in(index_dir, schema)
     
     # Index documents
     writer = ix.writer()
