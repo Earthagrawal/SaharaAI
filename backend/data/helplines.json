@@ -1,0 +1,44 @@
+{
+  "global": {
+    "name": "International Association for Suicide Prevention",
+    "website": "https://www.iasp.info/resources/Crisis_Centres/",
+    "description": "Find crisis centers worldwide"
+  },
+  "countries": {
+    "US": {
+      "name": "National Suicide Prevention Lifeline",
+      "phone": "988",
+      "website": "https://suicidepreventionlifeline.org/",
+      "text": "Text HOME to 741741"
+    },
+    "UK": {
+      "name": "Samaritans",
+      "phone": "116 123",
+      "website": "https://www.samaritans.org/",
+      "description": "Free to call from any phone"
+    },
+    "CA": {
+      "name": "Crisis Services Canada",
+      "phone": "1-833-456-4566",
+      "website": "https://www.crisisservicescanada.ca/",
+      "text": "Text 45645"
+    },
+    "AU": {
+      "name": "Lifeline Australia",
+      "phone": "13 11 14",
+      "website": "https://www.lifeline.org.au/",
+      "description": "24/7 crisis support"
+    },
+    "IN": {
+      "name": "AASRA",
+      "phone": "91-22-27546669",
+      "website": "http://www.aasra.info/",
+      "description": "24/7 suicide prevention helpline"
+    }
+  },
+  "distress_keywords": [
+    "suicide", "kill myself", "end it all", "can't go on", "want to die",
+    "hopeless", "no point", "give up", "hurt myself", "self harm",
+    "desperate", "overwhelmed", "trapped", "worthless", "burden"
+  ]
+}
