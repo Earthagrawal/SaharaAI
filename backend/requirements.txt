@@ -7,7 +7,7 @@ pydantic==2.8.2
 
 # Speech & Audio
 soundfile==0.12.1
-sounddevice==0.5.12
+sounddevice==0.5.2
 numpy==1.26.4
 scipy==1.13.1
 
