@@ -1,0 +1,16 @@
+[
+  {
+    "user_message": "Hello, how are you?",
+    "assistant_response": "Hello there! I'm doing well, thank you for asking. How are you feeling today? Is there anything I can help you with? Even if it's just listening, I'm here for you.",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T18:52:58.533215"
+  },
+  {
+    "user_message": "What did I just ask you?",
+    "assistant_response": "You asked me, \"How are you?\"",
+    "emotion_context": null,
+    "distress_detected": false,
+    "timestamp": "2025-08-15T18:53:00.011995"
+  }
+]
